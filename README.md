@@ -26,10 +26,12 @@ Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do 
 
 Para conclusão do desafio optei em uma estrutura mais objetiva e simples, a ideia foi aplicar os requisitos citados acima da maneira mais prática.
 
-As tecnologias em foco para esse desafio foram `HTML` e `CSS` de forma pura, durante o desenvolvimento foi necessário aplicar um pouco o uso de `JavaScript` porque naquele cenário
+As tecnologias em foco para esse desafio foram `HTML` e `CSS` de forma pura, durante o desenvolvimento foi necessário aplicar um pouco o uso de `JavaScript` para redirecionamento de página, porque naquele cenário
 foi a ideia mais prática que pude analisar no desenvolvimento. 
 
-Também foram feitos o uso de `Fontawesome` para utilização de ícone, e para as imagens foram baixadas nos sites `Pexels` e `Pixabay` nos quais são fornecidas gratitamente para uso.  
+Também foram feitos o uso de `Fontawesome` para utilização de ícone, a ideia foi apenas aplicar uma pequena melhoria visual no menu de nagevação, as imagens foram baixadas nos sites `Pexels` e `Pixabay` o propósito foi obter alguns produtos de forma genérica e ilustrativa nos quais são fornecidas gratitamente para uso.  
+
+Eu criei alguns arquivos de estilos separados de acordo com cada página, a ideia foi tentar modularizar a estrutura do projeto e evitar que o arquivo `style.css` estivesse sobrecarregado com vários estilos.
 
 ## ✔️ Recursos Utilizados
 
