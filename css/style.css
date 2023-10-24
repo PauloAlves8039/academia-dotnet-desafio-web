@@ -1,6 +1,8 @@
 :root{
-    --primary-color: #333;
-    --neutral-color: #FFF; 
+    --primary-color: #363636;
+    --secundary-color: #00BFFF;
+    --neutral-color: #FFFFFF; 
+    --link-color: #FFA500;
 }
 
 body {
@@ -35,10 +37,15 @@ nav a {
     color: var(--neutral-color);
 }
 
-.content {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+nav a:hover {
+    font-size: 18px;
+    text-decoration: none;
+    color: var(--link-color);
+}
+
+.title-page {
+    color: var(--secundary-color);
+    text-align: center;
 }
 
 footer {

@@ -1,0 +1,19 @@
+#about {
+    margin: 20px;
+}
+
+.paragraph {
+    text-align: justify;
+}
+
+.paragraph-position {
+    margin-top: 10px;
+}
+
+.text-about {
+    font-weight: 600;
+}
+
+.title-about {
+    position: relative;
+}
