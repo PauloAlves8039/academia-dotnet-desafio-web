@@ -2,7 +2,10 @@
     --primary-color: #363636;
     --secundary-color: #00BFFF;
     --neutral-color: #FFFFFF; 
+    --neutral-color2: #CCCCCC; 
+    --danger-color: #FF4500; 
     --link-color: #FFA500;
+    --success-color: #00CD00;
 }
 
 body {
@@ -104,7 +107,6 @@ nav a:hover {
 .product-table tr:nth-child(even) {
     background-color: var(--neutral-color);
 }
-
 
 footer {
     background-color: var(--primary-color);
