@@ -37,10 +37,20 @@ Também foram feitos o uso de `Fontawesome` para utilização de ícone, e para 
 - ``CSS``
 - ``JavaScript``
 - ``Fontawesome``
+- ``Pexels``
+- ``Pixabay``
 
 ## :floppy_disk: Clonar Repositório
 
 ```git clone https://github.com/PauloAlves8039/academia-dotnet-desafio-web.git```
+
+## :camera: Screenshots
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot1.PNG" /></p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot2.PNG" /></p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot3.PNG" /></p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot4.PNG" /></p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot5.PNG" /></p>
 
 ## Author
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
