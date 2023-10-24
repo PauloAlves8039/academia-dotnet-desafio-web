@@ -14,6 +14,16 @@
     font-weight: 600;
 }
 
-.title-form {
-    position: relative;
+.button-back {
+    display: block;
+    width: 70px;
+    background-color: var(--neutral-color);
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
 }
