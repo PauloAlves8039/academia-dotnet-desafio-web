@@ -1,0 +1,19 @@
+#form-sent {
+    margin: 20px;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.paragraph-contact {
+    text-align: justify;
+}
+
+.text-sent {
+    font-weight: 600;
+}
+
+.title-form {
+    position: relative;
+}
