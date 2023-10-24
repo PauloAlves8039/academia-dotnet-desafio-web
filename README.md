@@ -2,6 +2,10 @@
 
 ## :computer: Projeto
 
+Repositório com projeto web para simular a divulgação de uma empresa fictícia voltada a produtos Geek, essa aplicação faz parte de um desafio proposta na Academia DotNet ministrada pela `Universidade Franciscana - UFN `
+
+## Descrição do Desafio
+
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 - Página inicial: crie uma página inicial que apresente uma breve introdução ao site e tenha um menu de navegação com links para outras páginas do site.
 - Página "Sobre": crie uma página "Sobre" que inclua informações sobre o criador do site e sua finalidade.
@@ -18,10 +22,21 @@ Busque uma interface agradável aos olhos do usuário.
 
 Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do SEO do site proposto.
 
+## :white_check_mark: Decisões Técnicas
+
+Para conclusão do desafio optei em uma estrutura mais objetiva e simples, a ideia foi aplicar os requisitos citados acima da maneira mais prática.
+
+As tecnologias em foco para esse desafio foram `HTML` e `CSS` de forma pura, durante o desenvolvimento foi necessário aplicar um pouco o uso de `JavaScript` porque naquele cenário
+foi a ideia mais prática que pude analisar no desenvolvimento. 
+
+Também foram feitos o uso de `Fontawesome` para utilização de ícone, e para as imagens foram baixadas nos sites `Pexels` e `Pixabay` nos quais são fornecidas gratitamente para uso.  
+
 ## ✔️ Recursos Utilizados
 
 - ``HTML``
 - ``CSS``
+- ``JavaScript``
+- ``Fontawesome``
 
 ## :floppy_disk: Clonar Repositório
 
