@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Repositório com projeto web para simular a divulgação de uma empresa fictícia voltada a produtos Geek, essa aplicação faz parte de um desafio proposta na Academia DotNet ministrada pela `Universidade Franciscana - UFN `
+Repositório com projeto web para simular a divulgação de uma empresa fictícia voltada a produtos Geek, essa aplicação faz parte de um desafio proposto na Academia DotNet ministrada pela `Universidade Franciscana - UFN`
 
 ## Descrição do Desafio
 
