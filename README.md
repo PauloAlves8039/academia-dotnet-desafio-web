@@ -16,9 +16,9 @@ Repositório com projeto web para simular a divulgação de uma empresa fictíci
 
 ## :earth_americas: Demonstração
 
-[Geek Accessories](https://pauloalves8039.github.io/academia-dotnet-desafio-web/index.html)
+[Projeto Geek Accessories](https://pauloalves8039.github.io/academia-dotnet-desafio-web/index.html)
 
-## Descrição do Desafio
+## :page_facing_up: Descrição do Desafio
 
 Desenvolva um site para uma empresa, com todas informações da empresa. A página deve possuir, no mínimo, os seguintes requisitos (ou reutilize uma já desenvolvida que possua no mínimo 4 páginas html):
 - Página inicial: crie uma página inicial que apresente uma breve introdução ao site e tenha um menu de navegação com links para outras páginas do site.
