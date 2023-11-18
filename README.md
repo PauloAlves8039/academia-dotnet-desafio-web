@@ -1,8 +1,22 @@
-<h1 align="center">Academia DotNet - Desafio Web</h1>
+<h1 align="center">Academia .NET - Desafio Web</h1>
+
+<p align="center">
+  <a href="https://www.w3schools.com/html/"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://www.w3schools.com/css/"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+</p>
 
 ## :computer: Projeto
 
 Repositório com projeto web para simular a divulgação de uma empresa fictícia voltada a produtos Geek, essa aplicação faz parte de um desafio proposto na Academia DotNet ministrada pela `Universidade Franciscana - UFN`
+
+## :camera: Screenshot
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot1.PNG" /></p>
+
+## :earth_americas: Demonstração
+
+[Geek Accessories](https://pauloalves8039.github.io/academia-dotnet-desafio-web/index.html)
 
 ## Descrição do Desafio
 
@@ -44,16 +58,19 @@ Eu criei alguns arquivos de estilos separados de acordo com cada página, a idei
 
 ## :floppy_disk: Clonar Repositório
 
-```git clone https://github.com/PauloAlves8039/academia-dotnet-desafio-web.git```
+```bash
+git clone https://github.com/PauloAlves8039/academia-dotnet-desafio-web.git
+```
 
 ## :camera: Screenshots
 
-<p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot1.PNG" /></p>
 <p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot2.PNG" /></p>
 <p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot3.PNG" /></p>
 <p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot4.PNG" /></p>
 <p align="center"> <img src="https://github.com/PauloAlves8039/academia-dotnet-desafio-web/blob/master/assets/images/screenshot5.PNG" /></p>
 
-## Author
-:boy: [Paulo Alves](https://github.com/PauloAlves8039)
+## :boy: Author
+
+<a href="https://github.com/PauloAlves8039"><img src="https://avatars.githubusercontent.com/u/57012714?v=4" width=70></a>
+[Paulo Alves](https://github.com/PauloAlves8039)
 
